@@ -6,5 +6,7 @@ package com.cxy.demo;
 public class HelloWorld {
     public static void main(String[] args){
         System.out.println("Hello world");
+        //now we add a line
+        System.out.println("hello world in another line");
     }
 }
